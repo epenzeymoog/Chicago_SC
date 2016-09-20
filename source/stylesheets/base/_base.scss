@@ -1,0 +1,20 @@
+@import "variables";
+
+html {
+  box-sizing: border-box;
+
+    *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  font: $body-font;
+  letter-spacing: $body-spacing;
+  overflow-x: hidden; 
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: blue;
+}
