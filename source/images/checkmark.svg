@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-375.000000, -994.000000)" id="Included-…-list" fill="#DD2160">
+            <g transform="translate(371.000000, 952.000000)">
+                <path d="M22.5039824,42.2462026 L10.8638062,54.0944205 L5.40856388,48.5462026 C5.08636123,48.2180103 4.56389427,48.2180103 4.24169163,48.5462026 C3.91940088,48.8743949 3.91940088,49.4065744 4.24169163,49.7347667 L9.98962115,55.5896385 C10.4726167,56.0808949 11.2549956,56.0808949 11.7379031,55.5896385 L23.6708546,43.4347667 C23.9931454,43.1065744 23.9931454,42.5743949 23.6708546,42.2462026 C23.348652,41.9180103 22.826185,41.9180103 22.5039824,42.2462026" id="checkmark"></path>
+            </g>
+        </g>
+    </g>
+</svg>

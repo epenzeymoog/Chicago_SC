@@ -1,0 +1,49 @@
+@import "../base/variables";
+
+.clean-list {
+	list-style: none;
+	display: inline-block;
+  margin: 0;
+  padding: 0;
+
+  @media (min-width: $md-screen) {
+      li {
+      display: inline-block;
+    }
+  }
+
+	a {
+		color: $grey;
+		text-decoration: none;
+	}
+}
+
+.clean-list__item {
+  padding-left: .5em;
+
+  @media (min-width: $sm-screen) {
+    display: inline;     
+  }
+
+  @media (min-width: $md-screen) {
+    float: left;
+    padding: 2em .5em;
+  }
+}
+
+.left {
+	float: left;
+}
+
+.right--md {
+	@media (min-width: $md-screen) {
+	 float: right;
+   padding: 0;
+  }
+}
+
+.hide {
+	display: none;
+}
+
+

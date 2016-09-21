@@ -1,0 +1,40 @@
+@import "../base/variables";
+@import "../base/base";
+@import "../base/utilities";
+
+nav {
+  background-color: $white;
+  width: 100%;
+
+  li {
+    font-family: $rift;
+  }
+
+  @media (min-width: $md-screen) {
+    height: 9em;
+  }
+}
+
+.logo {
+  display: none;
+
+  @media (min-width: $md-screen) {
+    display: block;
+    padding-left: 1em;
+  }
+}
+
+.nav-wrapper {
+  @include outer-container(300px);
+  text-align: center;
+
+  @media (min-width: $md-screen) { 
+    @include outer-container(500px);
+    padding: .5em 0;
+  }
+
+    @media (min-width: $lg-screen) { 
+    @include outer-container(1000px);
+    padding-top: 1em;
+  }
+}
