@@ -1,14 +1,9 @@
-@import "../base/variables";
-@import "../base/base";
-@import "../base/utilities";
+// @import "../base/variables";
+// @import "../base/base";
+// @import "../base/utilities";
 
 nav {
   background-color: $white;
-  width: 100%;
-
-  li {
-    font-family: $rift;
-  }
 
   @media (min-width: $md-screen) {
     height: 9em;

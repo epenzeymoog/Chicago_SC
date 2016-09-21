@@ -1,4 +1,4 @@
-@import "../base/variables";
+// @import "../base/variables";
 
 .clean-list {
 	list-style: none;
@@ -19,8 +19,10 @@
 }
 
 .clean-list__item {
+  font-family: $rift;
+  font-size: 1.5em;
   padding-left: .5em;
-
+  
   @media (min-width: $sm-screen) {
     display: inline;     
   }
