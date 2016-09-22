@@ -25,35 +25,104 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 font-family: "Merriweather";
 }
 
+.test {
+  margin: 0 auto;
+  width: $sm-screen;
+
+  @media (min-width: $sm-screen) {
+    width: $md-screen;
+  }
+
+  @media (min-width: $lg-screen) {
+    width: 800px;
+  }
+}
+
 .skyline {
   display: block;
   margin: 0 auto;
+  padding: 1em;
+  width: 100%
+}
+
+.text {
+  @include outer-container(600px);
+
+  h3, h4 {
+    @include span-columns(6);
+    @include shift(3);
+    font-size: .9em;
+    text-align: center;
+  }
+
+  @media (min-width: $md-screen) {
+    h3 {
+      font-size: 1.2em;
+    }
+    h4 {
+      font-size: 1em;
+    }
+  }
+
+  @media (min-width: $md-screen) {
+    @include outer-container(1100px);
+  }
 }
 
 .cloud-container {
   display: none;
 
   @media (min-width: $md-screen) { 
+    @include outer-container(400px);
     display: block;
-    height: 100px;
+    height: 150px;
     position: relative;
+    width: 400px;
+    
+
+    .cloud-container__Cloud1 {
+      left: 75px;
+      top: 7px;  
+      position: absolute;
+      margin: 0 auto;
+    }
+
+    .cloud-container__Cloud2 {
+      left: 170px;
+      top: 65px;
+      position: absolute;
+      margin: 0 auto;
+    }
+
+    .cloud-container__Cloud3 {
+      left: 267px;
+      top: 16px;  
+      position: absolute;
+      margin: 0 auto;
+    }
+  }
+
+  @media (min-width: $lg-screen) { 
+    width: 900px;
+
+    .cloud-container__Cloud1 {
+      left: 1px; 
+      top: 7px; 
+      position: absolute;
+    }
+
+    .cloud-container__Cloud2 {
+      left: 170px;
+      top: 65px;
+      position: absolute;
+    }
+
+    .cloud-container__Cloud3 {
+      left: 367px;
+      top: 16px;  
+      position: absolute;
+    }
   }
 }
 
-.cloud-container__Cloud1 {
-  margin-top: 7px;
-  margin-left: 275px;  
-  position: absolute;
-}
 
-.cloud-container__Cloud2 {
-  margin-left: 370px;
-  margin-top: 65px;
-  position: absolute;
-}
-
-.cloud-container__Cloud3 {
-  margin-left: 467px;
-  margin-top: 16px;  
-  position: absolute;
-}
