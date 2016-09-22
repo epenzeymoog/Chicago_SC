@@ -1,8 +1,20 @@
-h1 {
+h1, h2, h3, h4 {
   color: $white;
+}
+
+h1 {
   font-family: $rift;
+  font-size: 2em;
   font-weight: 700;
-  font-size: 3em;
-  letter-spacing: $large-spacing;
-  text-align: center;  
+  letter-spacing: $medium-spacing;
+  text-align: center;
+
+  @media (min-width: $md-screen) {
+    font-size: 3.2em;
+    letter-spacing: $large-spacing;    
+  }
+}
+
+h3 {
+  font-family: $Merriweather;
 }

@@ -15,7 +15,11 @@
 	a {
 		color: $grey;
 		text-decoration: none;
-	}
+
+      &:hover {
+        text-decoration: underline;
+    }
+  }
 }
 
 .clean-list__item {
@@ -38,14 +42,9 @@
 }
 
 .right--md {
+
 	@media (min-width: $md-screen) {
 	 float: right;
    padding: 0;
   }
 }
-
-.hide {
-	display: none;
-}
-
-

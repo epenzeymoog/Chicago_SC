@@ -15,14 +15,114 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
-body {
-  font-family: "Merriweather";
-
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,4292ea+0,76a9e5+69,5fa1ed+100 */
+body {  
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,4292ea+0,76a9e5+69,5fa1ed+100 */
 background: #1e5799; /* Old browsers */
 background: -moz-linear-gradient(top,  #1e5799 0%, #4292ea 0%, #76a9e5 69%, #5fa1ed 100%); /* FF3.6-15 */
 background: -webkit-linear-gradient(top,  #1e5799 0%,#4292ea 0%,#76a9e5 69%,#5fa1ed 100%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(to bottom,  #1e5799 0%,#4292ea 0%,#76a9e5 69%,#5fa1ed 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#5fa1ed',GradientType=0 ); /* IE6-9 */
+font-family: "Merriweather";
 }
+
+.test {
+  margin: 0 auto;
+  width: $sm-screen;
+
+  @media (min-width: $sm-screen) {
+    width: $md-screen;
+  }
+
+  @media (min-width: $lg-screen) {
+    width: 800px;
+  }
+}
+
+.skyline {
+  display: block;
+  margin: 0 auto;
+  padding: 1em;
+  width: 100%
+}
+
+.text {
+  @include outer-container(600px);
+
+  h3, h4 {
+    @include span-columns(6);
+    @include shift(3);
+    font-size: .9em;
+    text-align: center;
+  }
+
+  @media (min-width: $md-screen) {
+    h3 {
+      font-size: 1.2em;
+    }
+    h4 {
+      font-size: 1em;
+    }
+  }
+
+  @media (min-width: $md-screen) {
+    @include outer-container(1100px);
+  }
+}
+
+.cloud-container {
+  display: none;
+
+  @media (min-width: $md-screen) { 
+    @include outer-container(400px);
+    display: block;
+    height: 150px;
+    position: relative;
+    width: 400px;
+    
+
+    .cloud-container__Cloud1 {
+      left: 75px;
+      top: 7px;  
+      position: absolute;
+      margin: 0 auto;
+    }
+
+    .cloud-container__Cloud2 {
+      left: 170px;
+      top: 65px;
+      position: absolute;
+      margin: 0 auto;
+    }
+
+    .cloud-container__Cloud3 {
+      left: 267px;
+      top: 16px;  
+      position: absolute;
+      margin: 0 auto;
+    }
+  }
+
+  @media (min-width: $lg-screen) { 
+    width: 900px;
+
+    .cloud-container__Cloud1 {
+      left: 1px; 
+      top: 7px; 
+      position: absolute;
+    }
+
+    .cloud-container__Cloud2 {
+      left: 170px;
+      top: 65px;
+      position: absolute;
+    }
+
+    .cloud-container__Cloud3 {
+      left: 367px;
+      top: 16px;  
+      position: absolute;
+    }
+  }
+}
+
 
