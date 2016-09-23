@@ -1,0 +1,37 @@
+.email {
+	background-color: #FFFFFF;
+	border: 1px solid $grey;
+	border-radius: 6px;
+	height: 2.5em;
+	margin: 0 0 .5em 0;
+	width: 100%;
+
+	@media (min-width: $md-screen) {
+		width: 75%;
+		float: left;
+		display: inline-block;
+	}
+}
+
+.sign-up {
+	background-color: $pink;
+	border: 1px solid $white;
+	border-radius: 6px;
+	color: $white;
+	display: inline-block;
+	font-family: $rift;
+	font-size: 1.5em;
+	height: 2.5em;
+	width: 100%;
+
+	@media (min-width: $md-screen) {
+		width: 25%;
+		float: right;
+		height: auto;
+		display: inline-block;
+	}
+}
+
+form {
+
+}

@@ -2,26 +2,42 @@
 layout: layout
 title: Chicago Software Craftsmanship
 ---
+<%= partial "partials/nav" %>
 
-<h1>Chicago Software Craftsmanship</h1>
+<section class="container">
+  
+  <h1 class="text--title">Chicago Software Craftsmanship</h1>
 
-<div class="cloud-container">
-  <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud1") %>
-  <%= image_tag("/images/Cloud-2.svg", class: "cloud-container__Cloud2") %>
-  <%= image_tag("/images/Cloud-3.svg", class: "cloud-container__Cloud3") %>
-</div>
+  <div class="cloud-container">
+    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud1") %>
+    <%= image_tag("/images/Cloud-2.svg", class: "cloud-container__Cloud2") %>
+    <%= image_tag("/images/Cloud-3.svg", class: "cloud-container__Cloud3") %>
+  </div>
 
-<div class="text">
-  <h3>Our mission is to spread the knowledge of high
-  quality software through thought-provoking topics.</h3>
-</div>
+  <div class="text--hero module--centered">
+    <h3>Our mission is to spread the knowledge of high
+    quality software through thought-provoking topics.</h3>
+  </div>
 
-<div class="test">
-<%= image_tag("/images/Skyline.svg", class: "skyline") %>
-</div>
+  <div class="skyline-container">
+  <%= image_tag("/images/Skyline.svg", class: "skyline") %>
+  </div>
 
-<div class="text">
-  <h4>We focus on big ideas and aim to explore new
-  concepts within the world of software.</h4>
-  <h4>Developers of all levels are welcome.</h4>
-</div>
+  <div class="text--hero module--centered">
+    <h4>We focus on big ideas and aim to explore new
+    concepts within the world of software.</h4>
+    <h4>Developers of all levels are welcome.</h4>
+  </div>
+
+<%= partial "partials/email_form" %> 
+
+  <section class="module--third">
+    <p>Cool event 1</p>
+  </section>
+    <section class="module--third">
+    <p>Cool event 2</p>
+  </section>
+  <section class="module--third">
+    <p>Cool event 3</p>
+  </section>
+</section>
