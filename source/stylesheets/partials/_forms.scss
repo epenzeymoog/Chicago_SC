@@ -7,9 +7,11 @@
 	width: 100%;
 
 	@media (min-width: $md-screen) {
-		width: 75%;
-		float: left;
 		display: inline-block;
+		float: left;
+		height: 2.3em;
+		margin-right: 10px;
+		width: 70%;	
 	}
 }
 
@@ -20,14 +22,14 @@
 	color: $white;
 	display: inline-block;
 	font-family: $rift;
-	font-size: 1.5em;
-	height: 2.5em;
+	font-size: 1.2em;
+	height: 2em;
 	width: 100%;
 
 	@media (min-width: $md-screen) {
 		width: 25%;
 		float: right;
-		height: auto;
+		height: 1.9em;
 		display: inline-block;
 	}
 }
