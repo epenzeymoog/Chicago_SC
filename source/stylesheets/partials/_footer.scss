@@ -1,0 +1,22 @@
+footer {
+  width: 100%;
+
+  @media (min-width: $md-screen) {
+    height: 9em;
+  }
+}
+
+.clean-list__item--footer a, p {
+  color: $white;
+  font-family: $rift;
+  font-size: 1em;
+  padding-left: .5em;
+  
+  @media (min-width: $sm-screen) {
+    display: inline;     
+  }
+
+  @media (min-width: $md-screen) {
+    padding: 2em .5em;
+  }
+}
