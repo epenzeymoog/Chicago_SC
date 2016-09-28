@@ -1,34 +1,40 @@
-.email {
-	background-color: #FFFFFF;
-	border: 1px solid $grey;
+.form--subscribe {
+	margin: 0 auto;
+	width: 75%;
+}
+
+.input--text {
+	border: 1px solid #82858D;
 	border-radius: 6px;
 	height: 2.5em;
 	margin: 0 0 .5em 0;
+	padding-left: 0.3em;
 	width: 100%;
+	@include linear-gradient(#FFF, #E7E4E4);
 
 	@media (min-width: $md-screen) {
 		display: inline-block;
-		float: left;
 		height: 2.3em;
 		margin-right: 10px;
 		width: 70%;	
 	}
 }
 
-.sign-up {
+.button--main {
 	background-color: $pink;
-	border: 1px solid $white;
+	border: 0;
 	border-radius: 6px;
+	box-shadow: 0 0 1px 0 #464646;
 	color: $white;
 	display: inline-block;
-	font-family: $rift;
+	font: $rift-demi;
 	font-size: 1.2em;
 	height: 2em;
+	text-shadow: 1px 1px 1px #444;
 	width: 100%;
 
 	@media (min-width: $md-screen) {
 		width: 25%;
-		float: right;
 		height: 1.9em;
 		display: inline-block;
 	}

@@ -47,8 +47,23 @@ font-family: "Merriweather";
   }
 
   @media (min-width: 746px) {
-    @include span-columns (10);
-    @include shift(1);
+    @include span-columns (8);
+    @include shift(2);
   }
 }
 
+.module--container {
+  background-color: rgba(255,255,255,0.1);
+  border-radius: 9px;
+  margin-top: 1em;
+  padding-bottom: 0.5em;
+  text-align: center;
+
+  @include span-columns (10);
+  @include shift(1);  
+
+  @media (min-width: $md-screen) {
+    @include span-columns (6);
+    @include shift(3);
+  }
+}

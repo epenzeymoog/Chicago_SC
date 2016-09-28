@@ -1,13 +1,15 @@
 .skyline-container {
-  margin: 0 auto;
-  width: $sm-screen;
+  background: no-repeat center/110% url("/images/skyline.svg");
+  clear: both;
+  height: 300px;
+  position: relative;
+  top: -2em;
 
   @media (min-width: $sm-screen) {
-    width: $md-screen;
   }
 
   @media (min-width: $lg-screen) {
-    width: 800px;
+    background-size: 100%;
   }
 }
 
@@ -21,55 +23,67 @@
 .cloud-container {
   display: none;
 
-  @media (min-width: $md-screen) { 
-    @include outer-container(400px);
+  @media (min-width: $lg-screen) { 
     display: block;
     height: 150px;
     position: relative;
-    width: 400px;
-    
-
-    .cloud-container__Cloud1 {
-      left: 75px;
-      top: 7px;  
-      position: absolute;
-      margin: 0 auto;
-    }
-
-    .cloud-container__Cloud2 {
-      left: 170px;
-      top: 65px;
-      position: absolute;
-      margin: 0 auto;
-    }
-
-    .cloud-container__Cloud3 {
-      left: 267px;
-      top: 16px;  
-      position: absolute;
-      margin: 0 auto;
-    }
-  }
-
-  @media (min-width: $lg-screen) { 
     width: 900px;
+  }
+}  
 
+  @media (min-width: $lg-screen) {
     .cloud-container__Cloud1 {
-      left: 1px; 
-      top: 7px; 
-      position: absolute;
+      @include transform(scale(1.2));
+      left: 1em;
+      top: .5em;
+      
+      @media (min-width: $extra-lg-screen) {
+        left: 0;
+        top: .5em;
+      }
     }
 
     .cloud-container__Cloud2 {
-      left: 170px;
-      top: 65px;
-      position: absolute;
+      left: 3em;
+      top: 10em;
+      @include transform(scaleX(-1) scale(.8));
     }
 
     .cloud-container__Cloud3 {
-      left: 367px;
-      top: 16px;  
-      position: absolute;
+      left: 9em;
+      top: 14em;
+      @include transform(scale(.5));
+    }
+
+      .cloud-container__Cloud4 {
+        @include transform(scaleX(-1) scale(1.2));
+
+        @media (min-width: $extra-lg-screen) {
+          left: 60em;
+          top: -1em;
+        }       
+    }
+
+      .cloud-container__Cloud5 {
+        right: 0;
+        top: 9em;
+        @include transform(scale(.8));
+    }
+
+      .cloud-container__Cloud6 {
+        @include transform(scale(.5));
+        display: none;
+        
+        @media (min-width: $extra-lg-screen) {
+          display: block;
+          left: 55em;
+          top: 14em;
+        }  
+        
+    }
+      .cloud-container__Cloud7 {
+        left: 48em;
+        top: 17em;
+        @include transform(scaleX(-1) scale(.5));
     }
   }
-}

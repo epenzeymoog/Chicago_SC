@@ -1,245 +1,267 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="782px" height="181px" viewBox="0 0 782 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
-    <title>Skyline</title>
+<svg width="1283px" height="333px" viewBox="0 0 1283 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Wireframes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Home-Page-Version-8" transform="translate(-329.000000, -754.000000)">
-            <g id="Skyline" transform="translate(330.000000, 754.000000)">
-                <g id="Oprah's-Building" transform="translate(556.000000, 102.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-17" points="0.7776 15.8464 14.9156 34.8214 30.1706 15.8464 15.4746 0.2194"></polygon>
-                    <polyline id="Stroke-18" points="0.7776 15.8464 0.9996 77.4994 30.4996 77.4994 30.4996 19.9994"></polyline>
+        <g id="Home-Page-Version-7-Copy-8" transform="translate(-71.000000, -542.000000)">
+            <g id="Group-16" transform="translate(72.000000, 542.000000)">
+                <g id="Group-15">
+                    <g id="Oprah's-Building" transform="translate(727.000000, 188.042733)" stroke="#A4E8D5">
+                        <polygon id="Stroke-17" points="1.43357538 29.2278044 27.4982472 64.2261378 55.6222087 29.2278044 28.5288138 0.404671111"></polygon>
+                        <polyline id="Stroke-18" points="0.964102564 29.2142099 1.83832192 142.943338 55.6222087 142.943338 55.6222087 29.2142099"></polyline>
+                    </g>
+                    <g id="Building-3" transform="translate(545.000000, 204.000000)" stroke="#A4E8D5">
+                        <polyline id="Stroke-3" points="8.91639285 44.8666667 8.91298205 30.1111111 33.185357 30.1111111 89.0667333 30.1111111 89.0667333 45.7888889"></polyline>
+                        <polyline id="Stroke-3" points="8.91639285 63.3111111 8.91298205 48.5555556 33.185357 48.5555556 89.0667333 48.5555556 89.0667333 64.2333333"></polyline>
+                        <polyline id="Stroke-3" points="8.91639285 81.7555556 8.91298205 67 33.185357 67 89.0667333 67 89.0667333 82.6777778"></polyline>
+                        <polyline id="Stroke-3" points="8.91639285 100.2 8.91298205 85.4444444 33.185357 85.4444444 89.0667333 85.4444444 89.0667333 101.122222"></polyline>
+                        <polyline id="Stroke-3" points="8.91639285 118.644444 8.91298205 103.888889 33.185357 103.888889 89.0667333 103.888889 89.0667333 119.566667"></polyline>
+                        <polyline id="Stroke-3" points="8.91639285 26.4222222 8.91298205 11.6666667 33.185357 11.6666667 89.0667333 11.6666667 89.0667333 27.3444444"></polyline>
+                        <polygon id="Stroke-36" points="0.0416282051 126.944444 97.9380872 126.944444 97.9380872 0 0.0416282051 0"></polygon>
+                    </g>
+                    <g id="Building-3-Copy" transform="translate(882.000000, 228.000000)" stroke="#A4E8D5">
+                        <polyline id="Stroke-3" transform="translate(48.989858, 13.950000) scale(1, -1) translate(-48.989858, -13.950000) " points="8.91639285 20.8666667 8.91298205 6.11111111 33.185357 6.11111111 89.0667333 6.11111111 89.0667333 21.7888889"></polyline>
+                        <polyline id="Stroke-3" transform="translate(48.989858, 32.394444) scale(1, -1) translate(-48.989858, -32.394444) " points="8.91639285 39.3111111 8.91298205 24.5555556 33.185357 24.5555556 89.0667333 24.5555556 89.0667333 40.2333333"></polyline>
+                        <polyline id="Stroke-3" transform="translate(48.989858, 50.838889) scale(1, -1) translate(-48.989858, -50.838889) " points="8.91639285 57.7555556 8.91298205 43 33.185357 43 89.0667333 43 89.0667333 58.6777778"></polyline>
+                        <polyline id="Stroke-3" transform="translate(48.989858, 69.283333) scale(1, -1) translate(-48.989858, -69.283333) " points="8.91639285 76.2 8.91298205 61.4444444 33.185357 61.4444444 89.0667333 61.4444444 89.0667333 77.1222222"></polyline>
+                        <polyline id="Stroke-3" transform="translate(48.989858, 87.727778) scale(1, -1) translate(-48.989858, -87.727778) " points="8.91639285 94.6444444 8.91298205 79.8888889 33.185357 79.8888889 89.0667333 79.8888889 89.0667333 95.5666667"></polyline>
+                        <polygon id="Stroke-36" points="0.0416282051 102.944444 97.9380872 102.944444 97.9380872 0 0.0416282051 0"></polygon>
+                    </g>
+                    <g id="Building-5" transform="translate(323.428205, 172.455556)" stroke="#A4E8D5">
+                        <polygon id="Stroke-38" points="0 158.487578 96.2999103 158.487578 96.2999103 0 0 0"></polygon>
+                        <g id="Group" transform="translate(12.905128, 12.911111)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 31.355556)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 68.244444)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 86.688889)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 123.577778)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 142.022222)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                    </g>
+                    <g id="Building-1" transform="translate(784.000000, 159.042733)" stroke="#A4E8D5">
+                        <polygon id="Stroke-38" points="0 171.398689 96.2999103 171.398689 96.2999103 0 0 0"></polygon>
+                        <g id="Group" transform="translate(12.905128, 7.377778)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 25.822222)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 44.266667)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 62.711111)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 81.155556)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 99.600000)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 118.044444)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 136.488889)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                        <g id="Group" transform="translate(12.905128, 154.933333)">
+                            <polygon id="Stroke-49" points="0 7.11955556 14.2325128 7.11955556 14.2325128 0 0 0"></polygon>
+                            <polygon id="Stroke-49" points="18.4358974 7.11955556 32.6684103 7.11955556 32.6684103 0 18.4358974 0"></polygon>
+                            <polygon id="Stroke-49" points="36.8717949 7.11955556 51.1043077 7.11955556 51.1043077 0 36.8717949 0"></polygon>
+                            <polygon id="Stroke-49" points="55.3076923 7.11955556 69.5402051 7.11955556 69.5402051 0 55.3076923 0"></polygon>
+                        </g>
+                    </g>
+                    <polygon id="Stroke-56" stroke="#A4E8D5" points="674 330.776067 725.852805 330.776067 725.852805 210 674 210"></polygon>
+                    <polygon id="Stroke-56-Copy" stroke="#A4E8D5" points="1229 330.776067 1280.85281 330.776067 1280.85281 187.776067 1229 187.776067"></polygon>
+                    <polygon id="Stroke-59" stroke="#A4E8D5" points="644.615385 331.160778 672.763313 331.160778 672.763313 243.466667 644.615385 243.466667"></polygon>
+                    <polygon id="Stroke-85" stroke="#A4E8D5" points="421.138462 331.009533 493.910479 331.009533 493.910479 245.311111 421.138462 245.311111"></polygon>
+                    <polygon id="Stroke-87" stroke="#A4E8D5" points="424.825641 309.364978 490.195646 309.364978 490.195646 296.955556 424.825641 296.955556"></polygon>
+                    <g id="Building-5" transform="translate(0.000000, 203.000000)" stroke="#A4E8D5">
+                        <polygon id="Stroke-91" points="0 128.103733 46.3036 128.103733 46.3036 19.2888889 0 19.2888889"></polygon>
+                        <g id="Group-2" transform="translate(5.530769, 69.088889)">
+                            <polygon id="Stroke-93" points="0.462741026 6.7562 6.66457692 6.7562 6.66457692 0.551488889 0.462741026 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="18.8986385 6.7562 25.1004744 6.7562 25.1004744 0.551488889 18.8986385 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="9.68068974 6.7562 15.8825256 6.7562 15.8825256 0.551488889 9.68068974 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="28.1165872 6.7562 34.3184231 6.7562 34.3184231 0.551488889 28.1165872 0.551488889"></polygon>
+                        </g>
+                        <g id="Group-2" transform="translate(5.530769, 32.200000)">
+                            <polygon id="Stroke-93" points="0.462741026 6.7562 6.66457692 6.7562 6.66457692 0.551488889 0.462741026 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="18.8986385 6.7562 25.1004744 6.7562 25.1004744 0.551488889 18.8986385 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="9.68068974 6.7562 15.8825256 6.7562 15.8825256 0.551488889 9.68068974 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="28.1165872 6.7562 34.3184231 6.7562 34.3184231 0.551488889 28.1165872 0.551488889"></polygon>
+                        </g>
+                        <g id="Group-2" transform="translate(5.530769, 105.977778)">
+                            <polygon id="Stroke-93" points="0.462741026 6.7562 6.66457692 6.7562 6.66457692 0.551488889 0.462741026 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="18.8986385 6.7562 25.1004744 6.7562 25.1004744 0.551488889 18.8986385 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="9.68068974 6.7562 15.8825256 6.7562 15.8825256 0.551488889 9.68068974 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="28.1165872 6.7562 34.3184231 6.7562 34.3184231 0.551488889 28.1165872 0.551488889"></polygon>
+                        </g>
+                        <polygon id="Stroke-94" points="4.14992051 18.3722 41.8292077 18.3722 41.8292077 9.28831111 4.14992051 9.28831111"></polygon>
+                        <polygon id="Stroke-95" points="12.1953462 8.83457778 17.7961718 8.83457778 17.7961718 0.66 12.1953462 0.66"></polygon>
+                        <polygon id="Stroke-96" points="27.7275897 8.83457778 33.1753974 8.83457778 33.1753974 0.66 27.7275897 0.66"></polygon>
+                    </g>
+                    <g id="Building-5" transform="translate(1181.000000, 203.000000)" stroke="#A4E8D5">
+                        <polygon id="Stroke-91" points="0 128.103733 46.3036 128.103733 46.3036 19.2888889 0 19.2888889"></polygon>
+                        <g id="Group-2" transform="translate(5.530769, 69.088889)">
+                            <polygon id="Stroke-93" points="0.462741026 6.7562 6.66457692 6.7562 6.66457692 0.551488889 0.462741026 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="18.8986385 6.7562 25.1004744 6.7562 25.1004744 0.551488889 18.8986385 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="9.68068974 6.7562 15.8825256 6.7562 15.8825256 0.551488889 9.68068974 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="28.1165872 6.7562 34.3184231 6.7562 34.3184231 0.551488889 28.1165872 0.551488889"></polygon>
+                        </g>
+                        <g id="Group-2" transform="translate(5.530769, 32.200000)">
+                            <polygon id="Stroke-93" points="0.462741026 6.7562 6.66457692 6.7562 6.66457692 0.551488889 0.462741026 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="18.8986385 6.7562 25.1004744 6.7562 25.1004744 0.551488889 18.8986385 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="9.68068974 6.7562 15.8825256 6.7562 15.8825256 0.551488889 9.68068974 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="28.1165872 6.7562 34.3184231 6.7562 34.3184231 0.551488889 28.1165872 0.551488889"></polygon>
+                        </g>
+                        <g id="Group-2" transform="translate(5.530769, 105.977778)">
+                            <polygon id="Stroke-93" points="0.462741026 6.7562 6.66457692 6.7562 6.66457692 0.551488889 0.462741026 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="18.8986385 6.7562 25.1004744 6.7562 25.1004744 0.551488889 18.8986385 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="9.68068974 6.7562 15.8825256 6.7562 15.8825256 0.551488889 9.68068974 0.551488889"></polygon>
+                            <polygon id="Stroke-93" points="28.1165872 6.7562 34.3184231 6.7562 34.3184231 0.551488889 28.1165872 0.551488889"></polygon>
+                        </g>
+                        <polygon id="Stroke-94" points="4.14992051 18.3722 41.8292077 18.3722 41.8292077 9.28831111 4.14992051 9.28831111"></polygon>
+                        <polygon id="Stroke-95" points="12.1953462 8.83457778 17.7961718 8.83457778 17.7961718 0.66 12.1953462 0.66"></polygon>
+                        <polygon id="Stroke-96" points="27.7275897 8.83457778 33.1753974 8.83457778 33.1753974 0.66 27.7275897 0.66"></polygon>
+                    </g>
+                    <polygon id="Stroke-97" stroke="#A4E8D5" points="200.6072 330.957356 256.6072 330.957356 256.6072 249.957356 200.6072 249.957356"></polygon>
+                    <polygon id="Stroke-101" stroke="#A4E8D5" points="259 331 321.682051 331 321.682051 159 259 159"></polygon>
+                    <polygon id="Stroke-101-Copy" stroke="#A4E8D5" points="47 331 109.682051 331 109.682051 188 47 188"></polygon>
+                    <g id="Sears-Tower" transform="translate(141.420513, 0.000000)" stroke="#A4E8D5">
+                        <polygon id="Stroke-4" points="0.921794872 331.077409 0.921794872 157.699631 6.34932308 157.699631 58.0730769 157.699631 58.0730769 331.077409"></polygon>
+                        <polygon id="Stroke-5" points="4.60897436 157.7 54.3858974 157.7 54.3858974 89.4555556 4.60897436 89.4555556"></polygon>
+                        <polygon id="Stroke-6" points="11.9833333 89.4555556 47.0115385 89.4555556 47.0115385 41.5 11.9833333 41.5"></polygon>
+                        <path d="M21.2012821,0.922222222 L21.2012821,39.6555556" id="Line" stroke-linecap="square"></path>
+                        <path d="M37.7935897,0.922222222 L37.7935897,39.6555556" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Bean" transform="translate(686.000000, 292.000000)">
+                        <path d="M10.4973757,39.3462892 C15.7305045,39.3188395 17.1159196,36.1334839 25.4153068,32.1497009 C30.1552612,29.8749584 33.2453445,28.3926761 37.5707464,28.2757166 C43.6353625,28.112212 48.6576413,30.7294787 51.3832044,32.1497009 C56.4507504,34.7920303 56.9403511,36.5595506 61.8804342,38.2387545 C64.894278,39.2639401 68.3179092,40.428761 71.2733821,38.7925218 C74.1978827,37.1741846 75.0412825,33.7143323 75.6928922,31.0433597 C76.0038065,29.7711271 77.1521644,24.7836408 75.1401556,19.4190199 C72.7159769,12.9540251 67.1921849,9.91427216 61.3276976,6.68714536 C56.0552578,3.78583425 48.2871648,-0.487960519 37.5707464,0.0455179123 C28.9818872,0.471584579 23.1745795,3.75361072 16.0223589,7.79468 C7.29769808,12.72488 4.19927607,17.0129963 2.76263749,19.4190199 C0.207422103,23.6940081 0.00133713216,26.8650421 0.000145889555,28.2757166 C-0.00223659565,29.9453728 -0.00700156607,33.808616 2.76263749,36.578646 C5.55491015,39.3725454 9.46575962,39.3522565 10.4973757,39.3462892" id="Fill-25" fill="#549AE8"></path>
+                        <path d="M10.4973757,39.3462892 C15.7305045,39.3188395 17.1159196,36.1334839 25.4153068,32.1497009 C30.1552612,29.8749584 33.2453445,28.3926761 37.5707464,28.2757166 C43.6353625,28.112212 48.6576413,30.7294787 51.3832044,32.1497009 C56.4507504,34.7920303 56.9403511,36.5595506 61.8804342,38.2387545 C64.894278,39.2639401 68.3179092,40.428761 71.2733821,38.7925218 C74.1978827,37.1741846 75.0412825,33.7143323 75.6928922,31.0433597 C76.0038065,29.7711271 77.1521644,24.7836408 75.1401556,19.4190199 C72.7159769,12.9540251 67.1921849,9.91427216 61.3276976,6.68714536 C56.0552578,3.78583425 48.2871648,-0.487960519 37.5707464,0.0455179123 C28.9818872,0.471584579 23.1745795,3.75361072 16.0223589,7.79468 C7.29769808,12.72488 4.19927607,17.0129963 2.76263749,19.4190199 C0.207422103,23.6940081 0.00133713216,26.8650421 0.000145889555,28.2757166 C-0.00223659565,29.9453728 -0.00700156607,33.808616 2.76263749,36.578646 C5.55491015,39.3725454 9.46575962,39.3522565 10.4973757,39.3462892 L10.4973757,39.3462892 Z" id="Stroke-27" stroke="#A4E8D5"></path>
+                    </g>
+                    <g id="Ferris-Wheel" transform="translate(237.761538, 258.222222)" stroke="#A4E8D5">
+                        <ellipse id="Oval" fill="#5299E8" cx="35.95" cy="36.397037" rx="35.95" ry="36.397037"></ellipse>
+                        <path d="M35.4641892,36.8888889 L0.485810811,31.9703704" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L8.25878378,59.5140741" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L15.0601351,7.37777778" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L40.3222973,72.3022222" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L62.6695946,59.5140741" id="Line" stroke-linecap="square"></path>
+                        <ellipse id="Oval-2" cx="36.4358108" cy="36.8888889" rx="22.8331081" ry="23.117037"></ellipse>
+                        <ellipse id="Oval-2" cx="35.95" cy="37.3807407" rx="12.6310811" ry="12.7881481"></ellipse>
+                        <path d="M35.4641892,35.9666667 L62.6695946,71.4414815" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L10.202027,72.3022222" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L71.4141892,36.8888889" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L3.40067568,50.6607407" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L0.485810811,40.8237037" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L9.23040541,14.2637037" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L3.40067568,22.1333333" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L31.5777027,72.3022222" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L22.8331081,70.3348148" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L70.4425676,28.0355556" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L67.5277027,20.1659259" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L70.4425676,44.7585185" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L67.5277027,52.6281481" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L62.6695946,12.2962963" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L55.8682432,6.39407407" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L48.0952703,2.45925926" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L39.3506757,0.491851852" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L31.5777027,0.491851852" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L23.8047297,2.45925926" id="Line" stroke-linecap="square"></path>
+                        <path d="M35.4641892,36.8888889 L50.0385135,69.3511111" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Group-14" transform="translate(1018.000000, 63.000000)" stroke="#A4E8D5">
+                        <g id="Group-13">
+                            <polygon id="Stroke-21" points="0.16025641 13.5440756 0.16025641 268.077409 64.6858974 268.077409 64.6858974 13.5440756 6.00074872 13.5440756"></polygon>
+                            <polyline id="Stroke-22" points="3.8474359 12.6218533 3.8474359 0.632964444 59.1551282 0.632964444 59.1551282 14.4662978"></polyline>
+                        </g>
+                        <g id="Group-3" transform="translate(13.987179, 23.688889)">
+                            <path d="M0,0 L0,215.8" id="Stroke-23"></path>
+                            <path d="M35.0282051,0 L35.0282051,215.8" id="Stroke-24"></path>
+                            <path d="M16.5923077,0 L16.5923077,215.8" id="Stroke-25"></path>
+                        </g>
+                    </g>
+                    <g id="Buiding-7" transform="translate(1083.133333, 156.777778)" stroke="#A4E8D5">
+                        <polygon id="Stroke-26" points="0.921794872 174.3 43.324359 174.3 43.324359 0.922222222 0.921794872 0.922222222"></polygon>
+                        <polygon id="Stroke-27" points="9.2032 20.4419778 33.9146769 20.4419778 33.9146769 9.13922222 9.2032 9.13922222"></polygon>
+                        <polygon id="Stroke-28" points="9.2032 101.597533 33.9146769 101.597533 33.9146769 90.2947778 9.2032 90.2947778"></polygon>
+                        <polygon id="Stroke-29" points="9.2032 81.3086444 33.9146769 81.3086444 33.9146769 70.0058889 9.2032 70.0058889"></polygon>
+                        <polygon id="Stroke-30" points="9.2032 121.886422 33.9146769 121.886422 33.9146769 110.583667 9.2032 110.583667"></polygon>
+                        <polygon id="Stroke-31" points="9.2032 142.175311 33.9146769 142.175311 33.9146769 130.872556 9.2032 130.872556"></polygon>
+                        <polygon id="Stroke-32" points="9.2032 61.0197556 33.9146769 61.0197556 33.9146769 49.717 9.2032 49.717"></polygon>
+                        <polygon id="Stroke-33" points="9.2032 40.7308667 33.9146769 40.7308667 33.9146769 29.4281111 9.2032 29.4281111"></polygon>
+                    </g>
+                    <g id="Building-8" transform="translate(980.992308, 133.800000)" stroke="#A4E8D5">
+                        <polygon id="Stroke-52" points="0.921794872 28.5107422 0.921794872 197.277409 35.95 197.277409 35.95 24.8218533 18.4358974 0.783208889"></polygon>
+                        <path d="M17.5141026,24.8218533 L17.5141026,174.221853" id="Stroke-53"></path>
+                    </g>
+                    <polygon id="Stroke-65" stroke="#A4E8D5" points="496 331 542 331 542 226 496 226"></polygon>
+                    <g id="Group-8" transform="translate(1127.000000, 27.000000)" stroke="#A4E8D5">
+                        <path d="M21.7371795,0.666297778 L21.7371795,46.7774089" id="Stroke-15"></path>
+                        <path d="M36.4858974,0.666297778 L36.4858974,46.7774089" id="Stroke-16"></path>
+                        <g id="Group-4" transform="translate(0.000000, 45.000000)">
+                            <polygon id="Stroke-14" points="12.4135192 1.77740889 0.138898718 259.077409 51.9990782 259.077409 42.2464885 1.77740889"></polygon>
+                            <polyline id="Stroke-50" points="12.4135192 0.855552539 42.7820527 36.7918028 9.5974356 79.9146123 46.4692322 130.223981 4.98846168 183.409349 50.1564104 232.281867 28.9551283 258.155553"></polyline>
+                            <polyline id="Stroke-51" points="42.2463041 1.77777476 11.4410256 38.943821 44.625641 78.9681772 7.75384615 130.427491 48.3128205 183.317386 2.22307692 233.347831 29.8769231 259.077775"></polyline>
+                        </g>
+                    </g>
                 </g>
-                <polygon id="Stroke-34" stroke="#A4E8D5" points="346 179.510024 358.698 179.510024 358.698 79.1500244 346 79.1500244"></polygon>
-                <g id="Building-3" transform="translate(396.000000, 102.000000)" stroke="#A4E8D5">
-                    <polyline id="Stroke-3" points="5.37885009 13 5.377 5 18.5428223 5 48.854 5 48.854 13.5"></polyline>
-                    <polyline id="Stroke-3" points="5.37885009 33 5.377 25 18.5428223 25 48.854 25 48.854 33.5"></polyline>
-                    <polyline id="Stroke-3" points="5.37885009 43 5.377 35 18.5428223 35 48.854 35 48.854 43.5"></polyline>
-                    <polyline id="Stroke-3" points="5.37885009 53 5.377 45 18.5428223 45 48.854 45 48.854 53.5"></polyline>
-                    <polyline id="Stroke-3" points="5.37885009 63 5.377 55 18.5428223 55 48.854 55 48.854 63.5"></polyline>
-                    <polyline id="Stroke-3" points="5.37885009 73 5.377 65 18.5428223 65 48.854 65 48.854 73.5"></polyline>
-                    <polyline id="Stroke-3" points="5.37885009 23 5.377 15 18.5428223 15 48.854 15 48.854 23.5"></polyline>
-                    <polygon id="Stroke-36" points="0.565 77.5 53.666 77.5 53.666 0.22 0.565 0.22"></polygon>
+                <g id="Building-9" transform="translate(111.000000, 211.000000)" stroke="#A4E8D5">
+                    <polygon id="Stroke-72" points="0.714538462 119.995556 29.3454867 119.995556 29.3454867 6.90713333 0.714538462 6.90713333"></polygon>
+                    <polygon id="Stroke-74" points="5.70697949 6.90713333 24.3198615 6.90713333 24.3198615 0.549333333 5.70697949 0.549333333"></polygon>
                 </g>
-                <g id="Building-5" transform="translate(253.000000, 93.500000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-38" points="0 85.927 52.235 85.927 52.235 0 0 0"></polygon>
-                    <g id="Group" transform="translate(7.000000, 7.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 17.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 37.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 47.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 67.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 77.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                </g>
-                <g id="Building-1" transform="translate(31.000000, 86.500000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-38" points="0 92.927 52.235 92.927 52.235 0 0 0"></polygon>
-                    <g id="Group" transform="translate(7.000000, 4.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 14.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 24.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 34.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 44.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 54.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 64.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 74.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                    <g id="Group" transform="translate(7.000000, 84.000000)">
-                        <polygon id="Stroke-49" points="0 3.86 7.72 3.86 7.72 0 0 0"></polygon>
-                        <polygon id="Stroke-49" points="10 3.86 17.72 3.86 17.72 0 10 0"></polygon>
-                        <polygon id="Stroke-49" points="20 3.86 27.72 3.86 27.72 0 20 0"></polygon>
-                        <polygon id="Stroke-49" points="30 3.86 37.72 3.86 37.72 0 30 0"></polygon>
-                    </g>
-                </g>
-                <polygon id="Stroke-54" stroke="#A4E8D5" points="518 179.373 537.954 179.373 537.954 101.5 518 101.5"></polygon>
-                <polygon id="Stroke-56" stroke="#A4E8D5" points="466 179.481 494.126 179.481 494.126 114 466 114"></polygon>
-                <polygon id="Stroke-57" stroke="#A4E8D5" points="496 179.417 516.894 179.417 516.894 127 496 127"></polygon>
-                <polygon id="Stroke-58" stroke="#A4E8D5" points="538 179.5 556 179.5 556 84.5 538 84.5"></polygon>
-                <polygon id="Stroke-59" stroke="#A4E8D5" points="450 179.545 465.268 179.545 465.268 132 450 132"></polygon>
-                <polygon id="Stroke-85" stroke="#A4E8D5" points="306 179.463 345.473 179.463 345.473 133 306 133"></polygon>
-                <polygon id="Stroke-87" stroke="#A4E8D5" points="308 167.728 343.458 167.728 343.458 161 308 161"></polygon>
-                <polygon id="Stroke-90" stroke="#A4E8D5" points="322 179.402 331.849 179.402 331.849 173 322 173"></polygon>
-                <g id="Building-5" transform="translate(189.000000, 109.500000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-91" points="0 69.996 25.116 69.996 25.116 11 0 11"></polygon>
-                    <g id="Group-2" transform="translate(3.000000, 38.000000)">
-                        <polygon id="Stroke-93" points="0.251 3.663 3.615 3.663 3.615 0.299 0.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="10.251 3.663 13.615 3.663 13.615 0.299 10.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="5.251 3.663 8.615 3.663 8.615 0.299 5.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="15.251 3.663 18.615 3.663 18.615 0.299 15.251 0.299"></polygon>
-                    </g>
-                    <g id="Group-2" transform="translate(3.000000, 18.000000)">
-                        <polygon id="Stroke-93" points="0.251 3.663 3.615 3.663 3.615 0.299 0.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="10.251 3.663 13.615 3.663 13.615 0.299 10.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="5.251 3.663 8.615 3.663 8.615 0.299 5.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="15.251 3.663 18.615 3.663 18.615 0.299 15.251 0.299"></polygon>
-                    </g>
-                    <g id="Group-2" transform="translate(3.000000, 58.000000)">
-                        <polygon id="Stroke-93" points="0.251 3.663 3.615 3.663 3.615 0.299 0.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="10.251 3.663 13.615 3.663 13.615 0.299 10.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="5.251 3.663 8.615 3.663 8.615 0.299 5.251 0.299"></polygon>
-                        <polygon id="Stroke-93" points="15.251 3.663 18.615 3.663 18.615 0.299 15.251 0.299"></polygon>
-                    </g>
-                    <polygon id="Stroke-94" points="2.251 10.503 22.689 10.503 22.689 5.578 2.251 5.578"></polygon>
-                    <polygon id="Stroke-95" points="6.615 5.332 9.653 5.332 9.653 0.9 6.615 0.9"></polygon>
-                    <polygon id="Stroke-96" points="15.04 5.332 17.995 5.332 17.995 0.9 15.04 0.9"></polygon>
-                </g>
-                <polygon id="Stroke-97" stroke="#A4E8D5" points="138 179.507 188.232 179.507 188.232 147 138 147"></polygon>
-                <polygon id="Stroke-100" stroke="#A4E8D5" points="360 179.5 396 179.5 396 93.5 360 93.5"></polygon>
-                <polygon id="Stroke-101" stroke="#A4E8D5" points="216 179.5 250 179.5 250 64.5 216 64.5"></polygon>
-                <g id="Building-2" transform="translate(85.000000, 150.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-102" points="0.187 29.5 19.363 29.5 19.363 0.956 0.187 0.956"></polygon>
-                    <polygon id="Stroke-103" points="0.187 13.623 19.363 13.623 19.363 9.5 0.187 9.5"></polygon>
-                    <polygon id="Stroke-103" points="0.187 19.623 19.363 19.623 19.363 15.5 0.187 15.5"></polygon>
-                    <polygon id="Stroke-103" points="0.187 7.623 19.363 7.623 19.363 3.5 0.187 3.5"></polygon>
-                    <polygon id="Stroke-103" points="0.187 25.623 19.363 25.623 19.363 21.5 0.187 21.5"></polygon>
-                </g>
-                <g id="Sears-Tower" transform="translate(106.000000, 0.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-4" points="0.5 179.4998 0.5 85.4998 3.444 85.4998 31.5 85.4998 31.5 179.4998"></polygon>
-                    <polygon id="Stroke-5" points="2.5 85.5 29.5 85.5 29.5 48.5 2.5 48.5"></polygon>
-                    <polygon id="Stroke-6" points="6.5 48.5 25.5 48.5 25.5 22.5 6.5 22.5"></polygon>
-                    <path d="M11.5,0.5 L11.5,21.5" id="Line" stroke-linecap="square"></path>
-                    <path d="M20.5,0.5 L20.5,21.5" id="Line" stroke-linecap="square"></path>
-                </g>
-                <g id="Bean" transform="translate(478.000000, 158.000000)">
-                    <path d="M5.69398683,21.3323254 C8.53254067,21.3174431 9.28401759,19.5904431 13.7857714,17.4305607 C16.3568176,16.1972666 18.0329407,15.3936196 20.3791253,15.3302078 C23.6686945,15.2415607 26.3928791,16.6605607 27.8712791,17.4305607 C30.6200176,18.863149 30.8855868,19.8214431 33.5651868,20.7318549 C35.1999561,21.2876784 37.0570022,21.9192078 38.6601099,21.0320902 C40.2464176,20.1546784 40.7038945,18.2788549 41.0573407,16.8307372 C41.2259868,16.1409725 41.8488791,13.4369137 40.7575253,10.5283843 C39.4426022,7.02326662 36.4463868,5.3752078 33.2653714,3.62556074 C30.4054945,2.05256074 26.1919253,-0.264556908 20.3791253,0.0246783862 C15.7203561,0.255678386 12.5703561,2.03509015 8.69084836,4.22603133 C3.95841759,6.89903133 2.27777144,9.22391368 1.4985099,10.5283843 C0.112509903,12.846149 0.000725287262,14.5653843 7.91334163e-05,15.3302078 C-0.00121317428,16.2354431 -0.00379778966,18.3299725 1.4985099,19.831796 C3.01309452,21.3465607 5.13441759,21.3355607 5.69398683,21.3323254" id="Fill-25" fill="#5B9BE7"></path>
-                    <path d="M5.69398683,21.3323254 C8.53254067,21.3174431 9.28401759,19.5904431 13.7857714,17.4305607 C16.3568176,16.1972666 18.0329407,15.3936196 20.3791253,15.3302078 C23.6686945,15.2415607 26.3928791,16.6605607 27.8712791,17.4305607 C30.6200176,18.863149 30.8855868,19.8214431 33.5651868,20.7318549 C35.1999561,21.2876784 37.0570022,21.9192078 38.6601099,21.0320902 C40.2464176,20.1546784 40.7038945,18.2788549 41.0573407,16.8307372 C41.2259868,16.1409725 41.8488791,13.4369137 40.7575253,10.5283843 C39.4426022,7.02326662 36.4463868,5.3752078 33.2653714,3.62556074 C30.4054945,2.05256074 26.1919253,-0.264556908 20.3791253,0.0246783862 C15.7203561,0.255678386 12.5703561,2.03509015 8.69084836,4.22603133 C3.95841759,6.89903133 2.27777144,9.22391368 1.4985099,10.5283843 C0.112509903,12.846149 0.000725287262,14.5653843 7.91334163e-05,15.3302078 C-0.00121317428,16.2354431 -0.00379778966,18.3299725 1.4985099,19.831796 C3.01309452,21.3465607 5.13441759,21.3355607 5.69398683,21.3323254 L5.69398683,21.3323254 Z" id="Stroke-27" stroke="#A4E8D5"></path>
-                </g>
-                <g id="Ferris-Wheel" transform="translate(123.000000, 140.000000)" stroke="#A4E8D5">
-                    <ellipse id="Oval" fill="#599AE6" cx="19.5" cy="19.7333333" rx="19.5" ry="19.7333333"></ellipse>
-                    <path d="M19.2364865,20 L0.263513514,17.3333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L4.47972973,32.2666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L8.16891892,4" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L21.8716216,39.2" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L33.9932432,32.2666667" id="Line" stroke-linecap="square"></path>
-                    <ellipse id="Oval-2" cx="19.7635135" cy="20" rx="12.3851351" ry="12.5333333"></ellipse>
-                    <ellipse id="Oval-2" cx="19.5" cy="20.2666667" rx="6.85135135" ry="6.93333333"></ellipse>
-                    <path d="M19.2364865,19.5 L33.9932432,38.7333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L5.53378378,39.2" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L38.7364865,20" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L1.84459459,27.4666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L0.263513514,22.1333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L5.00675676,7.73333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L1.84459459,12" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L17.1283784,39.2" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L12.3851351,38.1333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L38.2094595,15.2" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L36.6283784,10.9333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L38.2094595,24.2666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L36.6283784,28.5333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L33.9932432,6.66666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L30.3040541,3.46666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L26.0878378,1.33333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L21.3445946,0.266666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L17.1283784,0.266666667" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L12.9121622,1.33333333" id="Line" stroke-linecap="square"></path>
-                    <path d="M19.2364865,20 L27.1418919,37.6" id="Line" stroke-linecap="square"></path>
-                </g>
-                <polyline id="Stroke-20" stroke="#A4E8D5" points="610 180 610 175 610 174.338 610 174"></polyline>
-                <g id="Building-6" transform="translate(657.000000, 34.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-21" points="0.5 7.4998 0.5 145.4998 35.5 145.4998 35.5 7.4998 3.668 7.4998"></polygon>
-                    <polyline id="Stroke-22" points="2.5 6.9998 2.5 0.4998 32.5 0.4998 32.5 7.9998"></polyline>
-                    <g id="Group-3" transform="translate(8.000000, 13.000000)">
-                        <path d="M0,0 L0,117" id="Stroke-23"></path>
-                        <path d="M19,0 L19,117" id="Stroke-24"></path>
-                        <path d="M9,0 L9,117" id="Stroke-25"></path>
-                    </g>
-                </g>
-                <g id="Buiding-7" transform="translate(728.000000, 85.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-26" points="0.5 94.5 23.5 94.5 23.5 0.5 0.5 0.5"></polygon>
-                    <polygon id="Stroke-27" points="4.992 11.083 18.396 11.083 18.396 4.955 4.992 4.955"></polygon>
-                    <polygon id="Stroke-28" points="4.992 55.083 18.396 55.083 18.396 48.955 4.992 48.955"></polygon>
-                    <polygon id="Stroke-29" points="4.992 44.083 18.396 44.083 18.396 37.955 4.992 37.955"></polygon>
-                    <polygon id="Stroke-30" points="4.992 66.083 18.396 66.083 18.396 59.955 4.992 59.955"></polygon>
-                    <polygon id="Stroke-31" points="4.992 77.083 18.396 77.083 18.396 70.955 4.992 70.955"></polygon>
-                    <polygon id="Stroke-32" points="4.992 33.083 18.396 33.083 18.396 26.955 4.992 26.955"></polygon>
-                    <polygon id="Stroke-33" points="4.992 22.083 18.396 22.083 18.396 15.955 4.992 15.955"></polygon>
-                </g>
-                <g id="Hancock-Building" transform="translate(751.000000, 15.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-14" points="7.5275 24.9998 0.8695 164.4998 28.9995 164.4998 23.7095 24.9998"></polygon>
-                    <path d="M11.5,-0.0002 L11.5,24.9998" id="Stroke-15"></path>
-                    <path d="M19.5,-0.0002 L19.5,24.9998" id="Stroke-16"></path>
-                    <polyline id="Stroke-50" points="7.5275 24.4999984 24.0000008 43.9835076 5.99999984 67.363344 26.0000008 94.6395077 3.50000008 123.474949 28.0000001 149.972096 16.5000001 163.999998"></polyline>
-                    <polyline id="Stroke-51" points="23.7094 24.9999984 7 45.1502644 25 66.8502165 5 94.7498446 27 123.425089 2 150.550029 17 164.499998"></polyline>
-                </g>
-                <g id="Building-8" transform="translate(633.000000, 72.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-52" points="0.5 15.9998 0.5 107.4998 19.5 107.4998 19.5 13.9998 10 0.9668"></polygon>
-                    <path d="M9.5,13.9998 L9.5,94.9998" id="Stroke-53"></path>
-                </g>
-                <polygon id="Stroke-63" stroke="#A4E8D5" points="589 179.622 606.729 179.622 606.729 112.5 589 112.5"></polygon>
-                <polygon id="Stroke-65" stroke="#A4E8D5" points="693 179.545 710.975 179.545 710.975 132 693 132"></polygon>
-                <polygon id="Stroke-69" stroke="#A4E8D5" points="610 179.417 632.161 179.417 632.161 106 610 106"></polygon>
-                <g id="Building-9" transform="translate(711.000000, 114.000000)" stroke="#A4E8D5">
-                    <polygon id="Stroke-72" points="0.93 65.6 16.4599997 65.6 16.4599997 4.287 0.93 4.287"></polygon>
-                    <polygon id="Stroke-74" points="3.638 4.287 13.734 4.287 13.734 0.84 3.638 0.84"></polygon>
-                </g>
-                <polygon id="Stroke-81" stroke="#A4E8D5" points="0 179.547 31 179.547 31 111.5 0 111.5"></polygon>
             </g>
         </g>
     </g>

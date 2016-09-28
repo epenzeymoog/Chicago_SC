@@ -1,16 +1,18 @@
-//Font weights
-$light: 100;
-$regular: 400;
-$bold: 600;
-$extra-bold: 700;
+//Typography
+$merriweather: 1em/1.5 'Merriweather', serif;
+$merriweather-light: 300 $merriweather;
+$merriweather-regular: 400 $merriweather;
+$merriweather-bold: 700 $merriweather;
+
+$rift: 1em/1.5 rift-soft, sans-serif;
+$rift-light: 300 $rift;
+$rift-regular: 400 $rift;
+$rift-demi: 600 $rift;
+$rift-bold: 700 $rift;
 
 //Font Color
 $white: #F7F7FF;
 $grey: #424651;
-
-//Typography
-$rift: rift-soft;
-$Merriweather: 'Merriweather';
 
 //Letter spacing
 $body-spacing: .25px;
@@ -23,12 +25,13 @@ $large-spacing: 5.2px;
 $pink: #EA526F;
 
 //Header Font
-$header-font: $bold 16px/1.5 rift-soft, sans-serif;
+$header-font: $rift-bold;
 
 //Body Font
-$body-font: $light 16px/1.5 'Merriweather', serif;
+$body-font: $merriweather-light;
 
 //Mobile breakpoints
 $sm-screen: '375px';
 $md-screen: '520px';
 $lg-screen: '900px';
+$extra-lg-screen: '1100px';
