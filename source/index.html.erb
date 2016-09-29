@@ -2,46 +2,54 @@
 layout: layout
 title: Chicago Software Craftsmanship
 ---
+
 <%= partial "partials/nav" %>
+<div class="gradient-wrap">
 
-<section class="container">
-  
-  <h1 class="text--title">Chicago Software Craftsmanship</h1>
+  <section class="container">
+   
+    <h1 class="text--title">Chicago Software Craftsmanship</h1>
 
-  <div class="module--centered">
-    <p class="text--hero">Our mission is to spread the knowledge of high
-    quality software through thought-provoking topics.</p>
-  </div>
+    <div class="module--centered">
+      <p class="text--hero">Our mission is to spread the knowledge of high
+      quality software through thought-provoking topics.</p>
+    </div>
 
-  <%= partial "partials/email_form" %> 
+    <%= partial "partials/email_form" %> 
 
-  <div class="cloud-container">
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud1 absolute") %>
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud2 absolute") %>
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud3 absolute") %>
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud4 absolute") %>
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud5 absolute") %>
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud6 absolute") %>
-    <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud7 absolute") %>
-  </div>
+    <div class="cloud-container">
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud1 absolute") %>
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud2 absolute") %>
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud3 absolute") %>
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud4 absolute") %>
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud5 absolute") %>
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud6 absolute") %>
+      <%= image_tag("/images/Cloud-1.svg", class: "cloud-container__Cloud7 absolute") %>
+    </div>
 
-  <div class="skyline-container">
-  </div>
+    <div class="skyline-container">
+    </div>
 
-  <div class="text--hero module--centered">
-    <p>Our events focus on big ideas and aim to explore new concepts within the world of software.</p>
-    <p class="text--emphasized">Developers of all levels are welcome.</p>
-  </div>
+    <div class="module--centered">
+      <p class="text--hero">Our events focus on big ideas and aim to explore new concepts within the world of software.</p>
+      <p class="text--emphasized">Developers of all levels are welcome.</p>
+    </div>
 
-  <section class="module--third">
-    <p>Cool event 1</p>
-  </section>
+    <%= partial "partials/event" %> 
+
+<!--     <section class="module--third">
+      <p>Cool event 1</p>
+    </section>
+      <section class="module--third">
+      <p>Cool event 2</p>
+    </section>
     <section class="module--third">
-    <p>Cool event 2</p>
-  </section>
-  <section class="module--third">
-    <p>Cool event 3</p>
-  </section>
-</section>
+      <p>Cool event 3</p>
+    </section> -->
 
-<%= partial "partials/footer" %> 
+
+  </section>
+
+  <%= partial "partials/footer" %> 
+
+</div>

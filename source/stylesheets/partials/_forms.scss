@@ -12,34 +12,10 @@
 	width: 100%;
 	@include linear-gradient(#FFF, #E7E4E4);
 
-	@media (min-width: $md-screen) {
+	@media (min-width: $lg-screen) {
 		display: inline-block;
 		height: 2.3em;
 		margin-right: 10px;
 		width: 70%;	
 	}
-}
-
-.button--main {
-	background-color: $pink;
-	border: 0;
-	border-radius: 6px;
-	box-shadow: 0 0 1px 0 #464646;
-	color: $white;
-	display: inline-block;
-	font: $rift-demi;
-	font-size: 1.2em;
-	height: 2em;
-	text-shadow: 1px 1px 1px #444;
-	width: 100%;
-
-	@media (min-width: $md-screen) {
-		width: 25%;
-		height: 1.9em;
-		display: inline-block;
-	}
-}
-
-form {
-
 }

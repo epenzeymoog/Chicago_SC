@@ -1,10 +1,11 @@
 nav {
   background-color: $white;
+  color: $grey;
   font: $rift-light;
   width: 100%;
 
   @media (min-width: $md-screen) {
-    height: 9em;
+    height: 7.5em;
   }
 }
 
@@ -29,8 +30,4 @@ nav {
     @media (min-width: $lg-screen) { 
     padding-top: 1em;
   }
-}
-
-.clean-list__link:hover {
-  text-decoration: underline;
 }

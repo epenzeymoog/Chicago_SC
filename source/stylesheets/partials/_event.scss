@@ -1,0 +1,73 @@
+.module-main-container {
+	background-color: $white;
+	border-radius: 6px;
+	color: $grey;
+	padding: 30px;
+
+	@include span-columns (8);
+	@include shift (2);
+}
+
+.module-event__image {
+	display: none;
+
+	@media (min-width: $lg-screen) {
+		display: inline-block;
+		width: 20%;
+	}
+}
+
+.module-event__text {
+	display: inline-block;	
+	font: $rift-light;
+	margin-left: 25px;
+	vertical-align: top;
+	width: 70%;
+}
+
+.module-event__header {
+	font-size: 1.5em;
+	line-height: .8;
+	margin: 0 0 5px 0;
+}
+
+.module-event__title {
+	font-size: 2em;
+	line-height: 1.3em;
+	margin: 0;
+}
+
+.module-event__link {
+	color: $grey;
+	font: $merriweather;
+}
+
+.module-event__speaker, .module-event_attendees, .module-event__description__more {
+	font-size: .8em;
+	line-height: 1.2em;
+}
+
+.module-event__location p {
+	margin: 5px 0;
+}
+
+.module-event__date,  {
+	font: $merriweather-bold;
+	font-size: 1.2em;
+	margin: 10px 0 5px 0;
+}
+
+.module-event__time {
+	font: $merriweather-bold;
+	font-size: 1.2em;
+	margin: 0 0 10px 0;
+}
+
+.module-event__description__main {
+	line-height: 1.4em;
+	margin-top: 10px;
+
+	span {
+		font-style: italic;
+	}
+}
