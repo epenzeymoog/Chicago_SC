@@ -5,7 +5,7 @@ nav {
   width: 100%;
 
   @media (min-width: $md-screen) {
-    height: 7.5em;
+    height: 6em;
   }
 }
 
@@ -19,8 +19,8 @@ nav {
 }
 
 .nav-wrapper {
-  max-width: 800px;
   margin: 0 auto;
+  max-width: 800px;
   text-align: center;
 
   @media (min-width: $md-screen) { 
@@ -30,4 +30,45 @@ nav {
     @media (min-width: $lg-screen) { 
     padding-top: 1em;
   }
+}
+
+.clean-nav {
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  @media (min-width: $md-screen) {
+      li {
+      display: inline-block;
+    }
+  }
+
+  a {
+    text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+    }
+  }
+}
+
+.clean-nav__item {
+  font-family: $rift;
+  font-size: 1.5em;
+  padding: 0 .5em;
+  
+  @media (min-width: $sm-screen) {
+    display: inline;
+    padding: .9em .5em;     
+  }
+
+  @media (min-width: $lg-screen) {
+    padding: .6em .5em;
+    float: left;
+  }
+}
+
+.clean-nav__item a {
+  color: $grey;
 }

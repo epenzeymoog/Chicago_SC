@@ -6,10 +6,10 @@ html {
   }
 
   letter-spacing: $body-spacing;
+  -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden; 
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -17,22 +17,14 @@ body {
 }
 
 .gradient-wrap {
-  @include linear-gradient(#4292EA, #5FA1ED);
   background-repeat: no-repeat;
+  @include linear-gradient(#4292EA, #5FA1ED);
 }
 
 .container {
+  height: 100%;
   margin: 0 auto;
   @include outer-container(1000px);
-}
-
-.module--third {
-  @include span-columns (12);
-  border: 1px solid red;
-
-  @media (min-width: $lg-screen) {
-    @include span-columns (4);  
-  }
 }
 
 .module--centered {
@@ -50,7 +42,7 @@ body {
   }
 }
 
-.module--container {
+.module-container {
   background-color: rgba(255,255,255,0.1);
   border-radius: 9px;
   margin-top: 1em;

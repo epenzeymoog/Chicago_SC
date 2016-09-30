@@ -1,37 +1,5 @@
-.clean-list {
-	list-style: none;
-	display: inline-block;
-  margin: 0;
-  padding: 0;
-
-  @media (min-width: $md-screen) {
-      li {
-      display: inline-block;
-    }
-  }
-
-	a {
-		text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-    }
-  }
-}
-
-.clean-list__item {
-  font-family: $rift;
-  font-size: 1.5em;
-  padding-left: .5em;
-  
-  @media (min-width: $sm-screen) {
-    display: inline;     
-  }
-
-  @media (min-width: $md-screen) {
-    float: left;
-    padding: 2em .5em;
-  }
+.absolute {
+  position: absolute;
 }
 
 .left {
@@ -39,13 +7,8 @@
 }
 
 .right--md {
-
 	@media (min-width: $md-screen) {
 	 float: right;
    padding: 0;
   }
-}
-
-.absolute {
-  position: absolute;
 }

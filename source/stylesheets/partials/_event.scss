@@ -26,15 +26,21 @@
 }
 
 .module-event__header {
+	font-family: $rift;
 	font-size: 1.5em;
+  font-weight: 300;	
 	line-height: .8;
 	margin: 0 0 5px 0;
 }
 
 .module-event__title {
-	font-size: 2em;
+	font-size: 1.5em;
 	line-height: 1.3em;
 	margin: 0;
+
+	@media (min-width: $md-screen) {
+		font-size: 2em;
+	}
 }
 
 .module-event__link {

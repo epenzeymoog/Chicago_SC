@@ -2,8 +2,18 @@ footer {
   color: white;
   font: $rift-light;
   width: 100%;
+
+  	@media (min-height: $sm-screen) {
+		padding: 1em 0;
+	}
 }
 
-.clean-list__item--footer {
+.clean-nav__item--footer {
   padding: 5px 10px;
+}
+
+.clean-nav__item--footer a, .clean-nav__item--footer p {
+  color: $white;
+  font: $rift-light;
+	margin: 0;
 }
