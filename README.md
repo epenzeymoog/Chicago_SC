@@ -8,7 +8,10 @@ Then install middleman:
 <code>$ gem install middleman</code>
 
 You'll use Middleman's server:
-<code>$middleman server</code>
+<code>$ middleman server</code>
 
 View the project in your browser:
 <code>localhost: 4567</code>
+
+After adding, committing and pushing changes, use Middleman's build command to build the project:
+<code>$ middleman build</code>
