@@ -1,17 +1,17 @@
-# Chicago_SC
+# Chicago Software Craftsmanship
 This website was built with Middleman. Use the following instructions to install (or <a href="https://middlemanapp.com/basics/install/">check out their docs</a>)
 
-Make sure you have xcode installed:
+<p>Make sure you have xcode installed:</p>
 <code>$ xcode-select --install</code>
 
-Then install middleman:
+<p>Then install middleman:</p>
 <code>$ gem install middleman</code>
 
-You'll use Middleman's server:
+<p>You'll use Middleman's server:</p>
 <code>$ middleman server</code>
 
-View the project in your browser:
+<p>View the project in your browser:</p>
 <code>localhost: 4567</code>
 
-After adding, committing and pushing changes, use Middleman's build command to build the project:
+<p>After adding, committing and pushing changes, use Middleman's build command to build the project:</p>
 <code>$ middleman build</code>
