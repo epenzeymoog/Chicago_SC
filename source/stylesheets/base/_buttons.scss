@@ -32,3 +32,19 @@
 		font-size: 1.4em;
 	}	
 }
+
+.module-event__button--join {
+	font-size: .5em;
+	letter-spacing: 1px;
+	margin-bottom: 2em;
+	width: 100%;
+
+	@media (min-width: $md-screen) {
+		font-size: 1em;
+	}
+
+	@media (min-width: $lg-screen) {
+		font-size: 1.2em;
+		width: 50%;
+	}
+}
