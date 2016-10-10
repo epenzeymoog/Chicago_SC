@@ -26,9 +26,15 @@
 
 .button--block {
 	display: block;
-	margin-bottom: 15em;
+	margin-bottom: 5em;
+	margin-top: 2em;
 }
 
-form {
+.form-contact {
 	margin: 0 10%;
+}
+
+.form-contact__label {
+	display: block;
+	margin: 2em 0 .5em 0;
 }

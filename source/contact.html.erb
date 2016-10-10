@@ -9,12 +9,14 @@ title: Chicago Software Craftsmanship
   <section class="container">
     <h1 class="text--title">Contact Us</h1>
 
-    <form class="form__contact form--centered">
-      <p class="text--paragraph">Name</p>
+    <form class="form-contact">
+      <label class="text--paragraph form-contact__label" for="name">Name</label>
       <input type="text" placeholder="Name" class="input--text">
-      <p class="text--paragraph">Message</p>
-      <input type="text" class="input--text long-answer">
-      <p class="text--paragraph">Email address</p>
+
+      <label class="text--paragraph form-contact__label" for="message">Message</label>
+      <textarea name="textarea" rows="10" cols="50" class="input--text long-answer"></textarea>
+
+      <label class="text--paragraph form-contact__label" for="email">Email address</label>
       <input type="email" name="email" placeholder="Email Address" class="input--text">
       <input type="submit" action="esanmiguel@8thlight.com" value="Submit" class="button button--block">
     </form>
